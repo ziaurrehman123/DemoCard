@@ -1,0 +1,22 @@
+span.badge.badge-pill.badge-info {
+    padding: 6px 17px 6px 17px;
+    margin-right: 7px;
+}
+i.fa.fa-heart-o {
+    padding: 5px 0px 0px 0px;
+}
+h5.card-title {
+    margin-bottom: 3px;
+    margin-top: -15px;
+}
+body{
+    background-color: blue;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+    border: 3px solid cornflowerblue;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: -60px;
+}
